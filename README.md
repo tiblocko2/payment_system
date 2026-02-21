@@ -9,10 +9,6 @@ A robust payment processing system built with Go, designed for handling secure t
 ```
 .
 ├── main.go              # Application entry point
-├── handler/             # HTTP request handlers
-├── service/             # Business logic
-├── model/               # Data structures
-├── config/              # Configuration files
 └── README.md            # This file
 ```
 
